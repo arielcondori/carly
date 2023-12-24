@@ -9,3 +9,22 @@ function loguear()
         alert("datos incorrectos");
     }
 }
+
+function principal()
+{
+
+        window.location="principal.html";        
+
+}
+function imagenes()
+{
+
+        window.location="hola.html";        
+
+}
+function videos()
+{
+
+        window.location="videos.html";        
+
+}

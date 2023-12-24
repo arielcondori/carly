@@ -72,6 +72,14 @@ body {
     width: 250px;
 }
 
+.videos {
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    width: 250px;
+    display: block;
+    width: 100%;
+}
 .swiper-slide img {
     display: block;
     width: 100%;
